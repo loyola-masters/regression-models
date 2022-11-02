@@ -2,7 +2,7 @@
 1. Mathematical explanation of multi linear regression:
 >`docs/multi-linear-regression-math.ipynb`
 
-Case study **Boston House Pricing**
+Case study **Boston House Prices**
 >`./BostonHousePrices/boston-house-prices-linear-regression.ipynb`
 
 Find the online version at [Kaggle](regression-models/BostonHousePrices/boston-house-prices-linear-regression.ipynb)
